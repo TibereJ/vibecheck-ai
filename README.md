@@ -144,4 +144,4 @@ MIT — feel free to use, fork, and build on this.
 
 ---
 
-*Built by [Your Name] · [LinkedIn](https://linkedin.com) · [Portfolio](https://yoursite.com)*
+*Built by Tibère journel ·
